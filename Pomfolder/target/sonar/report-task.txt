@@ -1,6 +1,6 @@
-projectKey=Test1
+projectKey=com.sampleapp:CubeGeneratorWeb
 serverUrl=http://localhost:9000
 serverVersion=9.0.1.46107
-dashboardUrl=http://localhost:9000/dashboard?id=Test1
-ceTaskId=AYYDmfl6-Gfl_8Olw9WW
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYYDmfl6-Gfl_8Olw9WW
+dashboardUrl=http://localhost:9000/dashboard?id=com.sampleapp%3ACubeGeneratorWeb
+ceTaskId=AYYJE-SQ-Gfl_8Olw9Wk
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYYJE-SQ-Gfl_8Olw9Wk
